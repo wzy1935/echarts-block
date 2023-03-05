@@ -1,6 +1,6 @@
 {
-  "name": "blocks-template-vue",
-  "version": "0.0.0",
+  "name": "echarts-block",
+  "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "start": "node scripts/start.mjs",
@@ -8,7 +8,9 @@
     "build": "node scripts/build.js"
   },
   "dependencies": {
-    "@vue/runtime-dom": "^3.2.45"
+    "@vue/runtime-dom": "^3.2.45",
+    "axios": "^1.3.4",
+    "echarts": "^5.4.1"
   },
   "devDependencies": {
     "@githubnext/blocks": "^2.3.4",

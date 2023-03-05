@@ -1,11 +1,11 @@
 [
   {
     "type": "file",
-    "id": "file-block",
-    "title": "Vue Example File Block",
-    "description": "A basic file block",
-    "entry": "blocks/example-file-block/index.vue",
-    "matches": ["*"],
-    "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
+    "id": "echarts-block",
+    "title": "ECharts Block",
+    "description": "Show charts in a block",
+    "entry": "blocks/echarts-block/index.vue",
+    "matches": ["*.js"],
+    "example_path": "https://github.com/wzy1935/echarts-block/blob/main/examples/static.js"
   }
 ]
