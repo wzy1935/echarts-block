@@ -1,0 +1,11 @@
+[
+  {
+    "type": "file",
+    "id": "file-block",
+    "title": "Vue Example File Block",
+    "description": "A basic file block",
+    "entry": "blocks/example-file-block/index.vue",
+    "matches": ["*"],
+    "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
+  }
+]
